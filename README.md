@@ -1,4 +1,6 @@
 # Snake Game 🐍
+## [See Live](https://stardust130.github.io/Snake-Game/)
+
 This is a simple Snake game built using HTML, CSS, and JavaScript. The game is played on a grid board where the player controls a snake that moves around and eats food items to grow longer. The game ends if the snake collides with the walls or its own body.
 
 ## Getting Started 🚀
